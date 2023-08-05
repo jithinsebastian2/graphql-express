@@ -91,7 +91,7 @@ or
 
 ```
 
-## Mutataion(POST/DELETE/PUT) query samples
+## Mutation(POST/DELETE/PUT) query samples
 
 ```javascript
 
